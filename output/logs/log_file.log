@@ -1,0 +1,42 @@
+2020-03-17 15:30:44 INFO  TemperatureConverter:13 - Start method convertToCelsius
+2020-03-17 15:30:44 INFO  TemperatureConverter:18 - Start method convertToFahrenheit
+2020-03-17 15:54:06 INFO  TemperatureConverter:13 - Start method convertToCelsius
+2020-03-17 15:54:06 INFO  TemperatureConverter:18 - Start method convertToFahrenheit
+2020-03-17 15:54:06 INFO  LengthConverter:14 - Start method convertMileToKilometer
+2020-03-17 15:54:06 INFO  LengthConverter:19 - Start method convertKilometerToMile
+2020-03-17 15:54:06 ERROR LengthConverter:21 - Illegal number
+2020-03-17 16:51:32 INFO  TemperatureConverter:13 - Start method convertToCelsius
+2020-03-17 16:55:27 INFO  TemperatureConverter:18 - Start method convertToFahrenheit
+2020-03-17 16:55:28 INFO  TemperatureConverter:13 - Start method convertToCelsius
+2020-03-17 16:56:55 INFO  TemperatureConverter:18 - Start method convertToFahrenheit
+2020-03-17 16:56:55 INFO  TemperatureConverter:13 - Start method convertToCelsius
+2020-03-17 16:57:08 INFO  TemperatureConverter:13 - Start method convertToCelsius
+2020-03-17 16:57:08 INFO  TemperatureConverter:18 - Start method convertToFahrenheit
+2020-03-17 16:57:08 INFO  LengthConverter:14 - Start method convertMileToKilometer
+2020-03-17 16:57:08 INFO  LengthConverter:19 - Start method convertKilometerToMile
+2020-03-17 16:57:08 ERROR LengthConverter:21 - Illegal number
+2020-03-17 17:01:05 INFO  LengthConverter:14 - Start method convertMileToKilometer
+2020-03-17 17:01:05 INFO  LengthConverter:14 - Start method convertMileToKilometer
+2020-03-17 17:02:29 INFO  LengthConverter:19 - Start method convertKilometerToMile
+2020-03-17 17:02:29 INFO  LengthConverter:14 - Start method convertMileToKilometer
+2020-03-17 17:15:15 INFO  TemperatureConverter:13 - Start method convertToCelsius
+2020-03-17 17:15:15 INFO  TemperatureConverter:18 - Start method convertToFahrenheit
+2020-03-17 17:15:15 INFO  LengthConverter:14 - Start method convertMileToKilometer
+2020-03-17 17:15:15 INFO  LengthConverter:19 - Start method convertKilometerToMile
+2020-03-17 17:15:15 ERROR LengthConverter:21 - Illegal number
+2020-03-17 17:16:22 INFO  LengthConverter:19 - Start method convertKilometerToMile
+2020-03-17 17:16:22 INFO  LengthConverter:14 - Start method convertMileToKilometer
+2020-03-17 17:17:39 INFO  LengthConverter:19 - Start method convertKilometerToMile
+2020-03-17 17:17:39 INFO  LengthConverter:14 - Start method convertMileToKilometer
+2020-03-17 17:18:15 INFO  LengthConverter:19 - Start method convertKilometerToMile
+2020-03-17 17:18:15 INFO  LengthConverter:14 - Start method convertMileToKilometer
+2020-03-17 17:22:10 INFO  LengthConverter:19 - Start method convertKilometerToMile
+2020-03-17 17:22:10 INFO  LengthConverter:14 - Start method convertMileToKilometer
+2020-03-17 17:23:27 INFO  TemperatureConverter:18 - Start method convertToFahrenheit
+2020-03-17 17:23:27 INFO  TemperatureConverter:13 - Start method convertToCelsius
+2020-03-17 18:25:31 INFO  LengthConverter:14 - Start method convertMileToKilometer
+2020-03-17 18:25:31 INFO  LengthConverter:19 - Start method convertKilometerToMile
+2020-03-17 18:25:31 ERROR LengthConverter:21 - Illegal number
+2020-03-17 18:25:40 INFO  LengthConverter:14 - Start method convertMileToKilometer
+2020-03-17 18:25:40 INFO  LengthConverter:19 - Start method convertKilometerToMile
+2020-03-17 18:25:40 ERROR LengthConverter:21 - Illegal number
